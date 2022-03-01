@@ -1,0 +1,24 @@
+body{
+    background-color: azure;
+}
+
+h1 {
+    color: red;
+    font-size: 70px;
+}
+p{
+    font-size: 36px;
+    color: purple;
+}
+
+a{
+    color: burlywood;
+}
+
+#boba{
+    color: green;
+}
+
+.taco{
+    color: yellow;
+}
